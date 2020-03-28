@@ -1,2 +1,2 @@
-# borisburd
+# Minesweeper
 Minesweeper
